@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Tô Văn Lộc",
+      "email": "loctrunghoa@gmail.com",
+      "phone": "0375580391",
+      "course": "Lập trình web"
+    }
+  ],
+  "courses": []
+}
